@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetShorty3", "GetShorty3\GetShorty3.csproj", "{78F8F0DF-DCE7-43A8-BBFF-279E975D165B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F8F0DF-DCE7-43A8-BBFF-279E975D165B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F8F0DF-DCE7-43A8-BBFF-279E975D165B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F8F0DF-DCE7-43A8-BBFF-279E975D165B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F8F0DF-DCE7-43A8-BBFF-279E975D165B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0681DA2E-656A-470A-B55E-6F1A2F14FF30}
+	EndGlobalSection
+EndGlobal
