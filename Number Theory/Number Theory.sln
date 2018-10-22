@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Theory", "Number Theory\Number Theory.csproj", "{D4224BF1-E03C-42CA-AD27-CCF9BB90EB10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4224BF1-E03C-42CA-AD27-CCF9BB90EB10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4224BF1-E03C-42CA-AD27-CCF9BB90EB10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4224BF1-E03C-42CA-AD27-CCF9BB90EB10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4224BF1-E03C-42CA-AD27-CCF9BB90EB10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF8B628A-21EE-4801-82A8-EF37AAF3E622}
+	EndGlobalSection
+EndGlobal
