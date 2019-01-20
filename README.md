@@ -1,1 +1,1 @@
-# algorithm
+# solutions for uofu algorithm class
